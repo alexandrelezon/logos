@@ -1,2 +1,2 @@
-# logos
+# Logos in .svg
 SVG logos.
